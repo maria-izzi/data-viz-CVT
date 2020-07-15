@@ -1,1 +1,1 @@
-These are visualizations on COVID-19 spread data created for the Coronavirus Visualization Team. They can only be viewed at nbviewer.jupyter.org, through the halved circular button at the right top corner of the notebook.
+These are visualizations on COVID-19 spread data created for the Coronavirus Visualization Team. They can only be viewed at https://nbviewer.jupyter.org/, through the halved circular button at the right top corner of the notebook.
